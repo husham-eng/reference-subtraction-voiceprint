@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper and this archive."
+title: "Reference Subtraction for Voiceprint Recognition: code, features, split manifest, and predictions"
+type: software
+authors:
+  - family-names: Saied
+    given-names: Husham
+    affiliation: "Prince Sultan Military College of Health Sciences, Dhahran, Saudi Arabia"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/husham-eng/reference-subtraction-voiceprint"
+keywords:
+  - speaker identification
+  - voiceprint
+  - reference subtraction
+  - Mahalanobis distance

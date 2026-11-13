@@ -1,0 +1,14 @@
+{
+  "title": "Reference Subtraction for Voiceprint Recognition: code, features, split manifest, and predictions",
+  "upload_type": "software",
+  "description": "Reproducibility package for H. Saied, \"Reference Subtraction for Voiceprint Recognition: A Discriminative Approach Based on the Group's Normal Range\" (ICPIC 2026). Contains feature extraction and experiment code, 67-dimensional features for 605 recordings, the train/test split manifest, sample-level predictions of all eight decision rules, and the scripts that verify the algebraic reductions, paired McNemar tests, bootstrap intervals, and session analysis reported in the paper.",
+  "creators": [
+    {
+      "name": "Saied, Husham",
+      "affiliation": "Prince Sultan Military College of Health Sciences, Dhahran, Saudi Arabia"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["speaker identification", "voiceprint", "reference subtraction", "Mahalanobis distance", "negative result", "reproducibility"]
+}

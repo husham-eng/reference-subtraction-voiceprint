@@ -7,6 +7,7 @@ authors:
     given-names: Husham
     affiliation: "Prince Sultan Military College of Health Sciences, Dhahran, Saudi Arabia"
 version: 1.0.0
+doi: 10.5281/zenodo.24192646
 license: MIT
 repository-code: "https://github.com/husham-eng/reference-subtraction-voiceprint"
 keywords:

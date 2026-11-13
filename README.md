@@ -1,5 +1,7 @@
 # Reference Subtraction for Voiceprint Recognition — reproducibility package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24192646.svg)](https://doi.org/10.5281/zenodo.24192646)
+
 Code, extracted features, split manifest and sample-level predictions for:
 
 > H. Saied, "Reference Subtraction for Voiceprint Recognition: A Discriminative Approach Based on the Group's Normal Range," ICPIC 2026 (camera-ready version).
@@ -50,6 +52,10 @@ python 10_make_revision_figures.py
 ## Dataset
 
 Five native Sudanese Arabic speakers (3 men, 2 women), one word (ḥammām), WhatsApp voice messages recorded on each speaker's own smartphone; training and test recorded in separate sessions on different days. 425 training / 180 test recordings after removing two exact train–test duplicates. Speaker and device are confounded. Audio is not distributed; it is available from the author on reasonable request.
+
+## Citation
+
+H. Saied, "Reference subtraction for voiceprint recognition: Code, features, split manifest, and predictions," v1.0.0, Zenodo, 2026. doi: 10.5281/zenodo.24192646
 
 ## License
 
